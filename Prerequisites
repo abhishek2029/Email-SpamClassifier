@@ -1,0 +1,9 @@
+The following tools and libraires are required to run the project:
+
+Python
+Numpy
+Pandas
+Matplotlib
+Sklearn
+
+An environment to work in - Install Anaconda for Jupyter or Spyder.
